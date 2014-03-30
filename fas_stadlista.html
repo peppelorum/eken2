@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sv">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <meta content="Magnus Adielsson" name="author" />
+  <link href="styles.css" type="text/css" rel="stylesheet" />
+  <title>Eken 2 - Städlistor</title>
+
+  <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+</head>
+
+<body>
+<h1><img src="images/top.png" alt="top" width="800" height="228" /></h1>
+
+<p class="toc1"><a href="index.html">Hem</a>
+| <a href="for_fakta.html">Föreningen</a>
+| <a href="bo_index.html">Bo och leva</a>
+| <a class="here">Fastighetsskötsel</a>
+| <a href="www_index.html">Om webbplatsen</a>
+</p>
+
+<p class="toc2">
+<a href="fas_index.html">Allmänt</a>
+| <a class="here">Städlistor</a>
+| <a href="fas_snorojning.html">Snöröjning</a>
+| <a href="fas_plan.html">Planerat underhåll</a>
+</p>
+
+<p class="toc2">
+<a class="here">Uppgifter</a>
+| <a href="fas_stadlistaA.html">Hus A (69-93)</a>
+| <a href="fas_stadlistaB.html">Hus B (43-67)</a>
+| <a href="fas_stadlistaC.html">Hus C (19-41)</a>
+| <a href="fas_stadlistaD.html">Hus D (1-17)</a></p>
+<table width="800" border="0" align="center">
+  <tr>
+    <td><h1>Städlistor</h1>  
+      <h2>Uppgifter</h2>
+      <p>Den medlem som har städbrickan ansvarar för</p>
+      <ul>
+        <li>borstning/skottning av plattan framför sopskåpen,</li>
+        <li>snöröjning och sandning av påfartsväg vid Lövstagatan samt cykel- och gångstig.</li>
+      </ul>
+      <p>Varje medlem skottar och sandar en gångbar väg framför sin tomt.</p>
+    <p>Plogning av påfartsvägarna sköts av kontrakterad entreprenör, vanligtvis under kvällar och nätter.</p>      <p>&nbsp;</p></td>
+  </tr>
+</table>
+
+
+<script type="text/javascript">
+
+function getISOWeeks(y) {
+    'use strict';
+
+    var d,
+        isLeap;
+
+    d = new Date(y, 0, 1);
+    isLeap = new Date(y, 1, 29).getMonth() === 1;
+
+    //check for a Jan 1 that's a Thursday or a leap year that has a 
+    //Wednesday jan 1. Otherwise it's 52
+    return d.getDay() === 4 || isLeap && d.getDay() === 3 ? 53 : 52
+}
+
+function cleaningSchedule(houses, startYear, startWeek, houseStart) {
+    'use strict';
+
+    var today = new Date();
+    var yr = today.getFullYear();
+    var weeks = getISOWeeks(yr);
+    var rounds = Math.ceil(weeks / houses);
+    var ret = '';
+    var yearRet = '';
+
+    for (var year = startYear; year <= yr+1; year++) {
+        yearRet = '';
+        yearRet += '<h2>'+ year +'</h2>';
+        yearRet += '<table>';
+        yearRet += '<tr class="bold"><td>Husnummer</td>';
+        for (var j = 0; j < houses; j++) {
+            yearRet += '<td>'+ (houseStart + (j * 2)) +'</td>';
+        }
+        yearRet += '</tr>';
+
+        yearRet += '<tr>';
+        yearRet += '<td class="bold" rowspan="'+ rounds +'">Veckonr.</td>';
+
+        var houseCount = 1;
+        var i = 0;
+        for (var roundCount = 1; roundCount <= rounds; roundCount++) {
+          for (var houseCount = 1; houseCount <= houses; houseCount++) {
+              if ((startWeek -1 + i) === weeks) {
+                  startWeek = 1;
+                  i = 0;
+              }
+              yearRet += '<td>'+ (startWeek + i) +'</td>';
+              i++;
+          }
+          yearRet += '</tr><tr>';
+        }
+
+        startWeek = startWeek + i
+        yearRet += '</tr><table>';
+
+        if (year >= yr) {
+            ret += yearRet;
+        }
+    }
+    return ret;
+}
+
+function getQueryParams(qs) {
+    qs = qs.split("+").join(" ");
+
+    var params = {}, tokens,
+        re = /[?&]?([^=]+)=([^&]*)/g;
+
+    while (tokens = re.exec(qs)) {
+        params[decodeURIComponent(tokens[1])]
+            = decodeURIComponent(tokens[2]);
+    }
+
+    return params;
+}
+
+
+
+$(document).ready(function() {
+
+  var query = getQueryParams(document.location.search);
+  console.log(query);
+
+  var currentYear = cleaningSchedule(13, 2013, 4, 43);
+  $('#schedule').append(currentYear);
+
+})
+
+</script>
+
+<div id="schedule">
+</div>
+
+
+</body>
+</html>

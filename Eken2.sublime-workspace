@@ -1,0 +1,1046 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"em",
+				"emailTo"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"cal",
+				"calcTotal"
+			],
+			[
+				"ca",
+				"calcSavings"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"at",
+				"atts"
+			],
+			[
+				"data",
+				"data-hash"
+			],
+			[
+				"url",
+				"urlfield"
+			],
+			[
+				"has",
+				"hashboxid"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"Firt",
+				"First"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"no",
+				"noPricingCountries"
+			],
+			[
+				"webkit-bor",
+				"-webkit-border-radius:   (property)"
+			],
+			[
+				"border",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "for_avgift.html",
+			"settings":
+			{
+				"buffer_size": 2638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fas_stadlistaA.html",
+			"settings":
+			{
+				"buffer_size": 4867,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/main.js",
+			"settings":
+			{
+				"buffer_size": 2243,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/C/Proj/excore/source - Kopia/ITH Sales Tool/ITHSales.Manager/Scripts/excore-ui.js",
+		"/Users/peppe/Dev/Eken2/bo_index.html",
+		"/etc/hosts",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/cordova-2.1.0.js",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/rotate.html",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/pdfviewer.js",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/webintent.js",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/index.html",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/Scripts/abb.lvmotors.motordatasearch.export.js",
+		"/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/optimizer.html",
+		"/Users/peppe/Dev/ABB/ABB-LVMotors-Optimizer-Wrapper/Resources/HTML/main.js",
+		"/Users/peppe/Inbox/video-js/video.dev.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/myaccount/form-edit-address.php",
+		"/etc/apache2/httpd.conf",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/peppe/Dev/Biosilta/Biosilta/css/biolayout.css",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-checkout-field-manager/sod-woocommerce-checkout-fields.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/Biosilta/functions.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/content-product.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/single-product/meta.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/style.css",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-currency-converter-widget/currency-converter.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/classes/class-wc-email.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/functions.php",
+		"/Volumes/e$/WebRoots/Web/20130904_Teckna/Widgets/Teckna/js/malarenergiAPI.js",
+		"/Volumes/e$/WebRoots/Web/20130904_Teckna/Widgets/Teckna/js/tecknalib.js",
+		"/Volumes/e$/WebRoots/Web/20130906_Teckna/Widgets/Teckna/js/malarenergiAPI.js",
+		"/Volumes/e$/WebRoots/Web/20130906_Teckna/Widgets/Teckna/malarenergiAPI_backup_peppe.js",
+		"/Volumes/e$/WebRoots/Web/20130911_Teckna/Widgets/Teckna/js/malarenergiAPI.js",
+		"/Volumes/e$/WebRoots/Web/20130627_Teckna/Widgets/Teckna/js/malarenergiAPI.js",
+		"/Volumes/e$/WebRoots/Web/20130813_Teckna/Widgets/Teckna/js/malarenergiAPI.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/content-product.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/shop/content-product.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-checkout-field-manager/assets/css/frontend.css",
+		"/Users/peppe/Inbox/ghost-0.3.0/config.js",
+		"/Users/peppe/Inbox/ghost-0.3.0/core/client/models/post.js",
+		"/Users/peppe/Inbox/ghost-0.3.0/core/server/models/post.js",
+		"/Users/peppe/Inbox/ghost-0.3.0/content/themes/casper/index.hbs",
+		"/Users/peppe/Inbox/ghost-0.3.0/content/data/README.md",
+		"/Users/peppe/.zshrc",
+		"/Users/peppe/Inbox/ghost-0.3.0/package.json",
+		"/Users/peppe/Dev/Privat/WeLovePublicService/svtget/python/Main.py",
+		"/Users/peppe/Inbox/index_1_av.m3u8",
+		"/Users/peppe/Pending/arraytimetest.py",
+		"/Users/peppe/Pending/arraytimetest.html",
+		"/Users/peppe/Dev/Biosilta/Biosilta/plugins/woocommerce-currency-converter-widget/currency-converter.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/page.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/plugins/woocommerce-currency-converter-widget/currency-converter-widget.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/content.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/theme.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/js/biosilta.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/wplink.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/plugins/wplink/editor_plugin_src.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/wp-tinymce.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/class-wp-editor.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/wp-tinymce-schema.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/themes/advanced/link.htm",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/tiny_mce.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/plugins/wpview/editor_plugin_src.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-includes/js/tinymce/plugins/wplink/editor_plugin.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/woocommerce-hooks.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/mystile/css/layout.css",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/cart/cart.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/customer-note.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/customer-processing-order.php",
+		"/Users/peppe/Dev/smtp.py",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/admin-new-order.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/customer-completed-order.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/email-order-items.php",
+		"/Users/peppe/Pending/fractal/index.html",
+		"/Users/peppe/Dev/Biosilta/WP/debugröv.html",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/myaccount/form-login.php",
+		"/Users/peppe/Pending/fractal/package.json",
+		"/Users/peppe/Dropbox/Mälarenergi Teckna delade filer/JSON-API/confirm-post.json",
+		"/Users/peppe/Dev/Biosilta/Biosilta/header.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/mystile/header.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/mystile/includes/js/general.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/mystile/includes/js/third-party.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/mystile/includes/js/respond-IE.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/loop-shop.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/shop/form-login.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/archive-product.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/mystile/includes/theme-js.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/email-footer.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/email-addresses.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/Biosilta/header.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/myaccount/my-account.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/order/order-details.php",
+		"/Users/peppe/Dropbox/Checkme/Suprema Linux SDK 3.4/samples/Linux/UFE30_DemoConsole/UFE30_DemoConsole.cpp",
+		"/Users/peppe/Dev/Biosilta/casper.js",
+		"/Users/peppe/Dropbox/Checkme/Suprema Linux SDK 3.4/samples/Linux/UFE30_DemoConsole/Makefile",
+		"/Users/peppe/Dropbox/Checkme/UFLicense_NeaMetrics.dat",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/checkout/thankyou.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/woocommerce-functions.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/order/order-details.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/woocommerce-template.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-checkout-field-manager/classes/class-sod-woocommerce-checkout-fields.php",
+		"/Users/peppe/Dev/Biosilta/casper.coffee",
+		"/Users/peppe/Dev/Biosilta/WP/wp-settings.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-mail.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-config.php",
+		"/Users/peppe/Dev/Testing/video-js/demo.html",
+		"/Users/peppe/Dev/GE/XURI/XURI/static/styles/output.css",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-currency-converter-widget/currency-converter-widget.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/woocommerce-core-functions.php",
+		"/Users/peppe/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/email-header.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/Biosilta/woocommerce/myaccount/my-account.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/Biosilta/woocommerce/myaccount/form-login.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/Biosilta/js/biosilta.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-currency-converter-widget/woo-includes/woo-functions.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce-currency-converter-widget/assets/js/money.min.js",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/emails/customer-completed-order.php",
+		"/Users/peppe/Dev/Biosilta/Biosilta/woocommerce/emails/customer-invoice.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce/templates/myaccount/form-login.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-content/themes/Biosilta/woocommerce/emails/customer-processing-order.php",
+		"/Users/peppe/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/peppe/Dev/Biosilta/WP/wp-blog-header.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-activate.php",
+		"/Users/peppe/Dev/Biosilta/WP/wp-config-old.php",
+		"/Users/peppe/Dev/ABB/DCB/frontbone/django_/templating/models.py",
+		"/Users/peppe/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/peppe/Library/Application Support/Sublime Text 2/Packages/ABBDCB.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/peppe/Documents/workspace/PhoneGapTest1",
+			"/Users/peppe/Documents/workspace/PhoneGapTest1/assets",
+			"/Users/peppe/Dev/Biosilta/Biosilta",
+			"/Users/peppe/Dev/Biosilta/WP",
+			"/Users/peppe/Dev/Biosilta/Biosilta",
+			"/Users/peppe/Dev/Biosilta/WP",
+			"/Users/peppe/Dev/Biosilta/Biosilta",
+			"/Users/peppe/Dev/Biosilta/WP/wp-content/plugins/woocommerce",
+			"/Users/peppe/Dev/Biosilta/Biosilta",
+			"/Users/peppe/Dev/Biosilta/",
+			"/Users/peppe/Dev/Biosilta/Biosilta",
+			"/Users/peppe/Dev/Biosilta/Biosilta/*",
+			"/Users/peppe/Dev/Biosilta/Biosilta"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"openPDF",
+			"downloadOkCallbak",
+			"replaceAll",
+			"/**",
+			"downloadAndOpenPDF",
+			"pdfViewer",
+			"email",
+			"vatCountries",
+			"disabled",
+			"function get_user_meta",
+			"my_custom_checkout_field_update_user_meta",
+			"sod_custom_order_data_account_view",
+			"woocommerce_checkout_update_user_meta",
+			"register_extra_fields",
+			"woocommerce_order_status_pending_to_completed_notification",
+			"woocommerce_email_after_order_table",
+			".sod-clear",
+			"width: 100%",
+			"col-left",
+			"loggedin",
+			"Enter the destination",
+			"updateFields",
+			"river-sele",
+			"rivers.search",
+			"link-titl",
+			"redirect",
+			"woocommerce_login_widget_redirect",
+			"ko.observable()",
+			"remove",
+			"shiv",
+			"html5.js",
+			"cart",
+			"gets",
+			"woocommerce_order_details_table",
+			"shop_table",
+			"order_custom",
+			"sod_woocommerce_checkout_manager_shipping_fields",
+			"$order",
+			"customer",
+			"customer de",
+			"order_customer_billing_data",
+			"form_field",
+			"woocommerce_options_panel",
+			"woocommerce_format_decimal",
+			"Shipping address",
+			"Cart Subtotal",
+			"    // Enters into DB\n    wp_update_user($userdata);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"värde"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1242,
+								1242
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "for_avgift.html",
+					"settings":
+					{
+						"buffer_size": 2638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1365,
+								1365
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fas_stadlistaA.html",
+					"settings":
+					{
+						"buffer_size": 4867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1683.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/peppe/Documents/workspace/PhoneGapTest1/assets/www/main.js",
+					"settings":
+					{
+						"buffer_size": 2243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/peppe/Library/Application Support/Sublime Text 2/Packages/ABBDCB.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true
+}
