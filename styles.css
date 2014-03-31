@@ -24,6 +24,20 @@
   img { border: 0px solid;
     }
 
+.content {
+
+  width: 800px;
+  margin: 0 auto;
+}
 .bold {
     font-weight: bold;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+
+#schedule table td{
+  padding: 0 10px;
 }

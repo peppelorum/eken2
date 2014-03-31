@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv">
 <head>
   <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-  <meta content="Magnus Adielsson" name="author" />
+  <meta http-equiv="CACHE-CONTROL" content="NO-CACHE" />
   <link href="styles.css" type="text/css" rel="stylesheet" />
   <title>Eken 2 - Städlistor</title>
 
@@ -28,23 +28,26 @@
 
 <p class="toc2">
 <a class="here">Uppgifter</a>
-| <a href="fas_stadlistaA.html">Hus A (69-93)</a>
-| <a href="fas_stadlistaB.html">Hus B (43-67)</a>
-| <a href="fas_stadlistaC.html">Hus C (19-41)</a>
-| <a href="fas_stadlistaD.html">Hus D (1-17)</a></p>
-<table width="800" border="0" align="center">
-  <tr>
-    <td><h1>Städlistor</h1>  
-      <h2>Uppgifter</h2>
-      <p>Den medlem som har städbrickan ansvarar för</p>
-      <ul>
-        <li>borstning/skottning av plattan framför sopskåpen,</li>
-        <li>snöröjning och sandning av påfartsväg vid Lövstagatan samt cykel- och gångstig.</li>
-      </ul>
-      <p>Varje medlem skottar och sandar en gångbar väg framför sin tomt.</p>
-    <p>Plogning av påfartsvägarna sköts av kontrakterad entreprenör, vanligtvis under kvällar och nätter.</p>      <p>&nbsp;</p></td>
-  </tr>
-</table>
+| <a href="fas_stadlista.html?row=a">Hus A (69-93)</a>
+| <a href="fas_stadlista.html?row=b">Hus B (43-67)</a>
+| <a href="fas_stadlista.html?row=c">Hus C (19-41)</a>
+| <a href="fas_stadlista.html?row=d">Hus D (1-17)</a></p>
+<div class="content">
+
+  <h1>Städlistor</h1>  
+
+  <p>Den medlem som har städbrickan ansvarar för</p>
+  <ul>
+    <li>borstning/skottning av plattan framför sopskåpen,</li>
+    <li>snöröjning och sandning av påfartsväg vid Lövstagatan samt cykel- och gångstig.</li>
+  </ul>
+  <p>Varje medlem skottar och sandar en gångbar väg framför sin tomt.</p>
+  <p>Plogning av påfartsvägarna sköts av kontrakterad entreprenör, vanligtvis under kvällar och nätter.</p>
+
+<div id="schedule">
+</div>
+
+</div>
 
 
 <script type="text/javascript">
@@ -129,17 +132,30 @@ function getQueryParams(qs) {
 $(document).ready(function() {
 
   var query = getQueryParams(document.location.search);
-  console.log(query);
+  var vars;
+  if (query.row) {
+    if (query.row === 'a') {
+      vars = {houses: 13, startYear: 2014, startWeek: 5, houseStart: 69};
+    }
+    else if (query.row === 'b') {
+      vars = {houses: 13, startYear: 2013, startWeek: 4, houseStart: 43};
+    }
+    else if (query.row === 'c') {
+      vars = {houses: 12, startYear: 2014, startWeek: 5, houseStart: 19};
+    }
+    else if (query.row === 'd') {
+      vars = {houses: 9, startYear: 2014, startWeek: 3, houseStart: 1};
+    }
 
-  var currentYear = cleaningSchedule(13, 2013, 4, 43);
+  var currentYear = cleaningSchedule(vars['houses'], vars['startYear'], vars['startWeek'], vars['houseStart']);
   $('#schedule').append(currentYear);
+  }
+
 
 })
 
 </script>
 
-<div id="schedule">
-</div>
 
 
 </body>
